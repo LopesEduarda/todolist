@@ -50,7 +50,7 @@ docker-compose up -d --build
 Os endpoints da API ficam acessíveis através da porta `3000`.
 
 ### 📌 Criar um usuário
-´POST http://localhost:3000/users/register`
+`POST http://localhost:3000/users/register`
 ```json
 {
   "email": "teste@gmail.com",
