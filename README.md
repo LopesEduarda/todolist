@@ -120,15 +120,10 @@ npm run start
 Isso abrirá automaticamente o navegador em `http://localhost:5173`.
 
 
-
-```
+---
 
 
 ![image](https://github.com/user-attachments/assets/4966de2b-3da4-45ee-bafa-eeb809047833)
-
-
-```
-
 
 ![image](https://github.com/user-attachments/assets/2d0f8f8a-b129-449c-8d53-ae3c3fd2753d)
 
