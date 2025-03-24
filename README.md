@@ -60,7 +60,7 @@ Os endpoints da API ficam acessíveis através da porta `3000`.
 ```
 
 ### 📌 Login
-´POST http://localhost:3000/auth/login`
+`POST http://localhost:3000/auth/login`
 ```json
 {
   "email": "teste@gmail.com",
